@@ -2,6 +2,8 @@
 这部分代码主要用于pytorch学习，代码主要是jupyter notebook形式，还包含一些用于测试的数据
 #### 所需环境
 通常使用linux或window系统，2.0.0版本以上的pytorch，推荐python使用3.8及以上版本，cuda版本推荐11.8及以上
+#### 测试数据
+学习所需要的测试数据请在[此处](https://pan.baidu.com/s/1Inbrv2tHLC90M3572LHjbA)下载，提取码：s1zq 
 #### 环境配置
 
 ```bash
